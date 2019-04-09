@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "category": "Politics",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/04/checking-checklist-daily-report-1001752.jpg",
+    "title": "How Google determines the ‘lowest-quality’ content",
+    "description": "In the first part of this blog series, we examined the role and methods of the Google quality raters. This is the team of people employed to conduct real searches and report back on the quality of the search results displayed by Google."
+  },
+  {
+    "id": 2,
+    "category": "Opinions",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/04/Kompaniya-dlya-prodvizheniya-v-Internete-1024x927.jpg",
+    "title": "AdTech Weekly Roundup",
+    "description": "Facebook CEO Mark Zuckerberg has floated an interesting idea–he wants to create a section of the social network that would be devoted to “high-quality news,” and may even pay publishers that share their stuff there. This coming more than a year after announcing Facebook would feature less news."
+  },
+  {
+    "id": 3,
+    "category": "Sports",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/03/flowers.jpg",
+    "title": "AdTech Weekly Roundup",
+    "description": "In the article, Pinterest describes itself “not as a social media company but as the productivity tool for planning your dreams.” What does that mean? Well, Pinterest gives retailers a direct line of sight into what type of items their customers have just bought or are on the hunt for. It also positions itself as an discovery tool, but in order to get people to go from pinning to purchasing, Pinterest will need better commerce tools — and to convince more advertisers that it’s worthy of their time and budget."
+  },
+  {
+    "id": 4,
+    "category": "Sports",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/03/rawpixel-593598-unsplash-1024x643.jpg",
+    "title": "How Google’s search raters judge the health of your content",
+    "description": "Human behavior will always find a way to bend and distort the most meticulously planned processes. Even Google’s search display algorithim is not immune to the variations between how things should work, and how they actually function in reality."
+  },
+  {
+    "id": 5,
+    "category": "Sports",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/03/san-francisco-painted-ladies-1112x630-1024x576.jpg",
+    "title": "AdTech Weekly Roundup",
+    "description": "The Wall Street Journal is reporting that Facebook has settled some discrimination lawsuits by removing age, gender and ZIP Code targeting for housing, employment and credit-related ads."
+  },
+  {
+    "id": 6,
+    "category": "Opinions",
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/02/rawpixel-1071146-unsplash-1024x683.jpg",
+    "title": "Push notification engagement naturally degrades over time",
+    "description": "As a result of our latest whitepaper, we have isolated a key factor that affects the success of push notifications—but is overlooked by digital publishers in their reporting. There is a consistent pattern in engagement, across all push notifications. The engagement rate of subscribers naturally declines over time."
+  },
+  {
+    "category": "Nations",
+    "id": 7,
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/03/alessio-lin-208193-unsplash_1400x.progressive-1024x1024.jpg",
+    "title": "AdTech Weekly Roundup",
+    "description": "Top television networks have teamed up to create a technology standard that they say will make it easier for them to sell targeted advertisements, the latest collaborative effort from a historically competitive industry."
+  },
+  {
+    "category": "Politics",
+    "id": 8,
+    "imageUrl": "https://www.marfeel.com/wp-content/uploads/2019/03/brendan-church-182747-unsplash-1024x683.jpg",
+    "title": "How Google determines the ‘lowest-quality’ content",
+    "description": "In the first part of this blog series, we examined the role and methods of the Google quality raters. This is the team of people employed to conduct real searches and report back on the quality of the search results displayed by Google."
+  }
+]

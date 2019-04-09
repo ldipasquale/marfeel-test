@@ -1,0 +1,51 @@
+$menuLineWidth: 18px
+$menuLineHeight: 2px
+$menuLineDistance: 5px
+$menuHeight: $menuLineHeight + $menuLineDistance * 2
+
+&
+  text-align: center
+  position: fixed
+  left: 0
+  right: 0
+  overflow: hidden
+
+  &__TopBar
+    padding: $spacingStandard 0
+    display: flex
+    align-items: center
+    justify-content: center
+
+    &__Logo
+      flex: 1
+
+    &__Menu
+      position: relative
+      height: $menuHeight
+      left: $spacingMedium
+
+      &__Line
+        position: absolute
+        width: $menuLineWidth
+        height: $menuLineHeight
+        left: 0
+
+  &__Sections
+    display: flex
+    transition: all .5s
+    overflow-x: auto
+
+    &::-webkit-scrollbar
+      display: none
+
+    &--hidden
+      height: 0
+
+    &__Item
+      text-transform: uppercase
+      padding: $spacingSmall $spacingMedium
+      cursor: pointer
+
+      &--active
+        font-weight: $fontWeightBold
+        border-bottom: 3px solid

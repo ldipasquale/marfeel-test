@@ -1,0 +1,10 @@
+{
+  "backgroundColor": "#fff",
+  "logoUrl": "https://www.marfeel.com/wp-content/themes/guile/assets/marfeel_logo_rgb.svg",
+  "logoSize": 24,
+  "menuColor": "#000",
+  "sectionsColor": "#f00",
+  "sectionsTextColor": "#333",
+  "sectionsTextSize": 12,
+  "sectionsItems": ["Home", "Politics", "Opinions", "Sports", "Nations"]
+}
